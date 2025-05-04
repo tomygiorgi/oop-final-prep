@@ -195,7 +195,7 @@ public:
         }
         in.close();
     }
-
+    //----------------------------------------------------
     // Actualizar precios
     void actualizarPrecios() {
         for (auto p : productos) {
